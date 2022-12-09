@@ -2,7 +2,7 @@ import { React, useEffect, useState } from "react";
 import "./App.css";
 import Search from "./icon.svg";
 import Movies from "./Movies.jsx";
-const API = "http://www.omdbapi.com?apikey=db1af5cd";
+const API = "https://www.omdbapi.com?apikey=db1af5cd";
 
 // sample object
 const m1 = {
